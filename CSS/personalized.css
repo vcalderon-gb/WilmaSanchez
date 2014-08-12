@@ -2,7 +2,7 @@
 body{
 	background: url("../IMAGES/bg-wilma.jpg");
 	background-color: #120701;
-	font-family: 'Open Sans Condensed', sans-serif;
+	font-family: 'Julius Sans One', sans-serif;
 	color:#d0c7be;
 }
 .wrapper{
@@ -86,5 +86,5 @@ height: 310px !important;
 	text-transform: uppercase;
 }
 .ch-btn-skin{
-	font-family: 'Open Sans Condensed', sans-serif;
+	font-family: 'Julius Sans One', sans-serif;
 }
