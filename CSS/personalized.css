@@ -2,6 +2,8 @@
 body{
 	background: url("../IMAGES/bg-wilma.jpg");
 	background-color: #120701;
+	font-family: 'Open Sans Condensed', sans-serif;
+	color:#d0c7be;
 }
 .wrapper{
 	background:transparent;
@@ -17,4 +19,72 @@ body{
 	float: right;
 	width: 64%;
 	padding-left: 10px;
+}
+.header-top{
+	background-image: url("../IMAGES/header-fondo.jpg");
+	background-repeat: no-repeat;
+	min-height: 294px;
+}
+.wrapper.top{
+	padding-top: 0px;
+}
+#searchWrap.searchWrapper {
+	position: absolute;
+	bottom: 0%;
+	margin-bottom: 0px;
+	top: 2px;
+	right: 0px;
+	min-width: 430px;
+}
+.searchBar, .cartButton{
+	float:left;
+}
+.cartButton{
+	margin:5px 0px 0px 8px;
+}
+.navWrapper{
+	margin-top: 7px;
+	background-color: transparent;
+}
+.ch-carousel-mask {
+overflow: hidden;
+position: relative;
+height: 310px !important;
+}
+.component.img-logo{
+	max-height: 157px;
+	max-width: 160px;
+	margin-left: 47%;
+	margin-top: 4.5%;
+}
+.component.img-logo a{
+	max-width: 160px;
+	width:160px;
+}
+.navWrapper .ch-g1-5 {
+	width: 100%;
+	margin-top: 12px;
+	margin-left: 5%;
+}
+.navWrapper .ch-g4-5 {
+}
+.ch-dropdown{
+	padding: 0px !important;
+}
+.mnu-wilma ul, .mnu-wilma li{
+	background-color: transparent !important;
+}
+.component.simpleMenu li .link {
+	margin: 0px;
+}
+.mnu-wilma li a{
+	color: #d0c7be;
+	font-size: 1.9em;
+	font-weight: 300;
+	text-decoration: none;
+	margin-right: 37px !important;
+	text-transform: uppercase;
+}
+.ch-btn-skin{
+	font-family: 'Open Sans Condensed', sans-serif;
 }

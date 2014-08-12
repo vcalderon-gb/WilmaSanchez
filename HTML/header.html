@@ -1,10 +1,11 @@
+<link href='http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700' rel='stylesheet' type='text/css'>
 <header class="wrapper top">
 	<div class="ch-g1 header-top">
 		<div class="ch-container">
 #if( $hasLogo )
 	<figure class="component img-logo">
 		<a href="/" title="Inicio">
-			<img src="/images/logo.jpg?" alt="Cruces Tau" title="Cruces Tau" /></a>
+			<img src="/images/logo.png?" alt="Cruces Tau" title="Cruces Tau" /></a>
 	</figure>
 #else
 	<div class="component txt-logo">
@@ -27,58 +28,38 @@
 #end
 			</div>
 		</div>
+		<!-- menu de navegacion -->
+		<div class="ch-g1 clearfix background border navWrapper">
+			<div class="ch-g1-5">
+				<div class="ch-container clearfix">
+					#if( $hasOnlyOneCategory )
+						<a href="$uniqueCategory.url" class="no-categ link ch-btn ch-secondary button">Todos los productos</a>
+					#else
+						<div id="categDrop" class="ch-container mnu-wilma clearfix">
+							<ul class="component simpleMenu clearfix">
+							#foreach( $menuItem in $menuItemList )
+								#if( $menuItem.isFirstItem )
+									<li class="first background">
+										<a href="$menuItem.target" title="" class="link" data-name="$menuItem.name" data-isFirstItem="$menuItem.isFirstItem" data-target="$menuItem.target" data-noFollow="$menuItem.noFollow" data-linkTarget="$menuItem.linkTarget">$menuItem.name</a>
+									</li>
+								#else
+									<li class="background">
+										<a href="$menuItem.target" #if($menuItem.noFollow) rel="nofollow" #end title="" class="link" target="$menuItem.linkTarget" data-name="$menuItem.name" data-isFirstItem="$menuItem.isFirstItem" data-target="$menuItem.target" data-noFollow="$menuItem.noFollow" data-linkTarget="$menuItem.linkTarget">$menuItem.name</a>
+									</li>
+								#end
+							#end
+							#foreach ( $categoryLevel1 in $level1CategoryList )
+								<li class="background">
+									<a href="$categoryLevel1.url">$categoryLevel1.name</a>
+								</li>
+							#end
+							</ul>
+						</div>
+					#end
+				</div>
+			</div>
 	</div>
-
-	<div class="ch-g1 clearfix background border navWrapper">
-		<div class="ch-g1-5">
-			<div class="ch-container clearfix">
-#if( $hasOnlyOneCategory )
-	<a href="$uniqueCategory.url" class="no-categ link ch-btn ch-secondary button">Todos los productos</a>
-#else
-	<div id="categDrop" class="component categoriesList ch-dropdown">
-		<p class="button">Categorías</p>
-		<ul style="display:none;">
-			#foreach ( $categoryLevel1 in $level1CategoryList )
-			<li>
-				<a href="$categoryLevel1.url">$categoryLevel1.name</a>
-			</li>
-			#end
-		</ul>
+	<!-- fin menu de navegacion -->
 	</div>
-#end
-
-			</div>
-		</div>
-		<div class="ch-g4-5">
-			<div class="ch-container clearfix">
-<ul class="component simpleMenu clearfix">
-	#foreach( $menuItem in $menuItemList )
-		#if( $menuItem.isFirstItem )
-		<li class="first background">
-			<a href="$menuItem.target" title="" class="link" data-name="$menuItem.name" data-isFirstItem="$menuItem.isFirstItem" data-target="$menuItem.target" data-noFollow="$menuItem.noFollow" data-linkTarget="$menuItem.linkTarget">$menuItem.name</a>
-		</li>
-		#else
-		<li class="background">
-			<a href="$menuItem.target" #if($menuItem.noFollow) rel="nofollow" #end title="" class="link" target="$menuItem.linkTarget" data-name="$menuItem.name" data-isFirstItem="$menuItem.isFirstItem" data-target="$menuItem.target" data-noFollow="$menuItem.noFollow" data-linkTarget="$menuItem.linkTarget">$menuItem.name</a>
-		</li>
-		#end
-	#end
-</ul>
-
-			</div>
-		</div>
-	</div>
- 		<!-- implementacion de modulo de redes sociales-->
-		<div class="cont-redes-sociales">
-			<div class="cont-instagram">
-				<!-- www.intagme.com -->
-				<iframe src="http://www.intagme.com/in/?u=d2lsbWFzYW5jaGV6NHxpbnw3NXw0fDN8fHllc3w1fHVuZGVmaW5lZHx5ZXM=" allowTransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden; width:360px; height: 270px" ></iframe>
-			</div>
-			<div class="cont-pinteres">
-				<a data-pin-do="embedUser" href="http://www.pinterest.com/etsy/" data-pin-scale-width="115" data-pin-scale-height="286" data-pin-board-width="678"></a>
-<!-- Please call pinit.js only once per page -->
-<script type="text/javascript" async src="//assets.pinterest.com/js/pinit.js"></script>
-			</div>
-		</div>
-		<!--fin de modulo de redes sociales-->
+	
 </header>
