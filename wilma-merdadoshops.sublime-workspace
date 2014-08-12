@@ -251,38 +251,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "HTML/header.html",
-			"settings":
-			{
-				"buffer_size": 2672,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "CSS/personalized.css",
-			"settings":
-			{
-				"buffer_size": 1640,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "HTML/home.html",
-			"settings":
-			{
-				"buffer_size": 11832,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "HTML/footer.html",
-			"settings":
-			{
-				"buffer_size": 1442,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -360,6 +328,11 @@
 	},
 	"file_history":
 	[
+		"/C/xampp/htdocs/Wilma/HTML/footer.html",
+		"/C/xampp/htdocs/Wilma/HTML/home.html",
+		"/C/xampp/htdocs/Wilma/CSS/personalized.css",
+		"/C/xampp/htdocs/Wilma/HTML/header.html",
+		"/C/xampp/htdocs/CorpoByte/Comandos de GIT",
 		"/C/xampp/htdocs/CentroArbitraje/interno.html",
 		"/C/xampp/htdocs/CentroArbitraje/index.html",
 		"/C/xampp/htdocs/CentroArbitraje/css/custom.css",
@@ -499,117 +472,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "HTML/header.html",
-					"settings":
-					{
-						"buffer_size": 2672,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								378,
-								378
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "CSS/personalized.css",
-					"settings":
-					{
-						"buffer_size": 1640,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								273,
-								273
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/CSS/CSS.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "HTML/home.html",
-					"settings":
-					{
-						"buffer_size": 11832,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								11590,
-								11590
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 5308.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "HTML/footer.html",
-					"settings":
-					{
-						"buffer_size": 1442,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								382,
-								382
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
 			]
 		}
 	],
