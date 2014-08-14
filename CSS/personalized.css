@@ -79,12 +79,45 @@ height: 310px !important;
 }
 .mnu-wilma li a{
 	color: #d0c7be;
-	font-size: 1.9em;
+	font-size: 1.4em;
 	font-weight: 300;
 	text-decoration: none;
-	margin-right: 37px !important;
+	margin-right: 18px !important;
 	text-transform: uppercase;
 }
 .ch-btn-skin{
 	font-family: 'Julius Sans One', sans-serif;
+}
+.component.prominentProd .ch-carousel{
+	background-color: transparent;
+}
+.component.prominentProd{
+	border-bottom: none;
+}
+h3 .title-component{
+	display: none;
+}
+.component.newsProduct{
+	display:none;
+}
+.component.itemGallery figure a img{
+	padding: 8px 10px 8px 10px;
+	background: #fff;
+}
+.component.itemGallery h2 {
+	margin: 0px 0px 0px 25px;
+	max-height: 4.1em;
+	line-height: 0.98em;
+	font-size: 1.5em;
+	position: absolute;
+	z-index: 2;
+	bottom: 105px;
+	max-width: 180px;
+}
+.component.itemGallery h2 a.title{
+	color: #e32684;
+	text-decoration: none;
+}
+#homePrice{
+	display:none;
 }
