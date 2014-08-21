@@ -2,6 +2,13 @@
 <header class="wrapper top">
 	<div class="ch-g1 header-top">
 		<div class="ch-container">
+			<div class="social-bar">
+				<dl class="socialData">
+					<dt>Síguenos:</dt>	
+					<dd id="fb-button"></dd>
+					<g:plusone size="medium" count="false" href="http://www.crucestau.com.ve"></g:plusone>
+				</dl> 
+			</div>
 #if( $hasLogo )
 	<figure class="component img-logo">
 		<a href="/" title="Inicio">
@@ -61,5 +68,12 @@
 	</div>
 	<!-- fin menu de navegacion -->
 	</div>
-	
+	<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/es_LA/sdk.js#xfbml=1&appId=129421047225957&version=v2.0";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
 </header>

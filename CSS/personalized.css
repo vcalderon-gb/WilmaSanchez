@@ -4,6 +4,7 @@ body{
 	background-color: #120701;
 	font-family: 'Julius Sans One', sans-serif;
 	color:#d0c7be;
+	max-width: 866px !important;
 }
 .wrapper{
 	background:transparent;
@@ -50,6 +51,9 @@ body{
 overflow: hidden;
 position: relative;
 height: 310px !important;
+}
+.ch-carousel-pages{
+	display:none;
 }
 .component.img-logo{
 	max-height: 157px;
@@ -120,4 +124,51 @@ h3 .title-component{
 }
 #homePrice{
 	display:none;
+}
+.component.itemGallery li.background{
+	height:auto;
+}
+.component.itemGallery article{
+	min-height: 100%
+}
+.cinta-ws{
+	background-color: #41061c;
+	width:100%;
+	padding:20px auto;
+	color:#ecf0f1;
+	font-size: 18px;
+	text-align: center;
+	text-transform: uppercase;
+}
+/*menu redes footer*/
+.icon-facebook{
+	background:url(../IMAGES/facebook.svg);
+	width:28px;
+	height:28px;
+	float:left;
+	color:#fff;
+}
+.icon-instagram{
+	background:url(../IMAGES/instagram.svg);
+	width:28px;
+	height:28px;
+	float:left;
+	color:#fff;
+}
+.icon-twitter{
+	background:url(../IMAGES/twitter.svg);
+	width:28px;
+	height:28px;
+	float:left;
+	color:#fff;
+}
+.icon-pinteres{
+	background:url(../IMAGES/pinterest.svg);
+	width:28px;
+	height:28px;
+	float:left;
+}
+.mnu-categorias, .mnu-base{
+	list-style: none;
+	color:#fff;
 }
