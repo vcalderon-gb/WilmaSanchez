@@ -4,6 +4,14 @@
 		"selected_items":
 		[
 			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"padding-",
+				"padding-bottom"
+			],
+			[
 				"back",
 				"background"
 			],
@@ -62,10 +70,6 @@
 			[
 				"lin",
 				"link"
-			],
-			[
-				"mar",
-				"margin"
 			],
 			[
 				"u",
@@ -263,7 +267,7 @@
 			"file": "CSS/personalized.css",
 			"settings":
 			{
-				"buffer_size": 3247,
+				"buffer_size": 3015,
 				"line_ending": "Windows"
 			}
 		},
@@ -271,7 +275,7 @@
 			"file": "HTML/footer.html",
 			"settings":
 			{
-				"buffer_size": 2489,
+				"buffer_size": 2550,
 				"line_ending": "Unix"
 			}
 		},
@@ -287,15 +291,15 @@
 			"file": "HTML/header.html",
 			"settings":
 			{
-				"buffer_size": 3299,
+				"buffer_size": 3358,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "/C/Users/Virgilio/Dropbox/Contratos/2014/WilmaSanchez/MercadoShops/Versiones/Wilma/HTML/header.html",
+			"file": "IMAGES/icomoon/style.css",
 			"settings":
 			{
-				"buffer_size": 2698,
+				"buffer_size": 1114,
 				"line_ending": "Unix"
 			}
 		}
@@ -376,12 +380,16 @@
 	},
 	"file_history":
 	[
+		"/C/xampp/htdocs/Wilma/IMAGES/icomoon/style.css",
+		"/C/xampp/htdocs/Wilma/IMAGES/icomoon/demo.html",
+		"/C/xampp/htdocs/Wilma/HTML/header.html",
 		"/C/Users/Virgilio/Dropbox/Contratos/2014/WilmaSanchez/MercadoShops/Versiones/Wilma/HTML/header.html",
+		"/C/xampp/htdocs/HTML5/dia5_canvas.html",
+		"/C/xampp/htdocs/HTML5/dia4.html",
 		"/C/Users/Virgilio/Dropbox/Contratos/2014/WilmaSanchez/MercadoShops/Versiones/Wilma-V-1.zip",
 		"/C/xampp/htdocs/Wilma/CSS/personalized.css",
 		"/C/xampp/htdocs/Wilma/HTML/home.html",
 		"/C/xampp/htdocs/Wilma/HTML/footer.html",
-		"/C/xampp/htdocs/Wilma/HTML/header.html",
 		"/C/xampp/htdocs/CorpoByte/Comandos de GIT",
 		"/C/xampp/htdocs/CentroArbitraje/interno.html",
 		"/C/xampp/htdocs/CentroArbitraje/index.html",
@@ -530,15 +538,15 @@
 					"file": "CSS/personalized.css",
 					"settings":
 					{
-						"buffer_size": 3247,
+						"buffer_size": 3015,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								451,
-								451
+								2527,
+								2527
 							]
 						],
 						"settings":
@@ -547,7 +555,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 190.0,
+						"translation.y": 2206.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -557,15 +565,23 @@
 					"file": "HTML/footer.html",
 					"settings":
 					{
-						"buffer_size": 2489,
+						"buffer_size": 2550,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								433,
-								433
+								840,
+								840
+							],
+							[
+								884,
+								884
+							],
+							[
+								944,
+								944
 							]
 						],
 						"settings":
@@ -574,7 +590,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 117.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -601,7 +617,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 2335.0,
+						"translation.y": 571.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -611,15 +627,15 @@
 					"file": "HTML/header.html",
 					"settings":
 					{
-						"buffer_size": 3299,
+						"buffer_size": 3358,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1638,
-								1638
+								449,
+								449
 							]
 						],
 						"settings":
@@ -628,34 +644,34 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 397.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 4,
-					"file": "/C/Users/Virgilio/Dropbox/Contratos/2014/WilmaSanchez/MercadoShops/Versiones/Wilma/HTML/header.html",
+					"file": "IMAGES/icomoon/style.css",
 					"settings":
 					{
-						"buffer_size": 2698,
+						"buffer_size": 1114,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2281,
-								2324
+								1033,
+								1033
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"syntax": "Packages/CSS/CSS.tmLanguage",
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 788.0,
+						"translation.y": 239.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"

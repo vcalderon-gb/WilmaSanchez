@@ -138,16 +138,21 @@ h3 .title-component{
 	text-align: center;
 	text-transform: uppercase;
 }
-.center-footer, .right-footer {
-	float:left;
-	width:37.5%;
+.center-footer {
+	width:25%;
 }
 .left-footer, .center-footer{
 	padding-top: 100px;
+	float:left;
 }
 .left-footer{
 	width:25%;
-	margin-left:8%; 
+	margin-left:8%;
+}
+.right-footer{
+	float:right;
+	padding-top: 20px;
+	width:40%;
 }
 .mnu-categorias, .mnu-base{
 	list-style: none;
@@ -158,8 +163,9 @@ h3 .title-component{
 	font-size: 1.5em;
 	line-height: 3;
 }
-.mnu-foot1{
+.mnu-foot1, .left-footer ul{
 	padding-bottom: 10px;
+	margin-left: 10%;
 }
 .navWrapper .ch-g4-5 {
 width: 100%;
