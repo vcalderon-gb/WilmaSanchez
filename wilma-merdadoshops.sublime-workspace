@@ -4,6 +4,26 @@
 		"selected_items":
 		[
 			[
+				"back",
+				"background"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
 				"dis",
 				"display"
 			],
@@ -14,14 +34,6 @@
 			[
 				"border",
 				"border-bottom"
-			],
-			[
-				"font",
-				"font-family"
-			],
-			[
-				"max",
-				"max-height"
 			],
 			[
 				"car",
@@ -58,10 +70,6 @@
 			[
 				"u",
 				"uppercase"
-			],
-			[
-				"text",
-				"text-transform"
 			],
 			[
 				"padd",
@@ -160,10 +168,6 @@
 				"navbar-nav"
 			],
 			[
-				"min",
-				"min-width"
-			],
-			[
 				"na",
 				"navbar-default"
 			],
@@ -255,6 +259,46 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "CSS/personalized.css",
+			"settings":
+			{
+				"buffer_size": 3247,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "HTML/footer.html",
+			"settings":
+			{
+				"buffer_size": 2489,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "HTML/home.html",
+			"settings":
+			{
+				"buffer_size": 11797,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "HTML/header.html",
+			"settings":
+			{
+				"buffer_size": 3299,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Virgilio/Dropbox/Contratos/2014/WilmaSanchez/MercadoShops/Versiones/Wilma/HTML/header.html",
+			"settings":
+			{
+				"buffer_size": 2698,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -332,6 +376,8 @@
 	},
 	"file_history":
 	[
+		"/C/Users/Virgilio/Dropbox/Contratos/2014/WilmaSanchez/MercadoShops/Versiones/Wilma/HTML/header.html",
+		"/C/Users/Virgilio/Dropbox/Contratos/2014/WilmaSanchez/MercadoShops/Versiones/Wilma-V-1.zip",
 		"/C/xampp/htdocs/Wilma/CSS/personalized.css",
 		"/C/xampp/htdocs/Wilma/HTML/home.html",
 		"/C/xampp/htdocs/Wilma/HTML/footer.html",
@@ -476,8 +522,144 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "CSS/personalized.css",
+					"settings":
+					{
+						"buffer_size": 3247,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								451,
+								451
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 190.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "HTML/footer.html",
+					"settings":
+					{
+						"buffer_size": 2489,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								433,
+								433
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "HTML/home.html",
+					"settings":
+					{
+						"buffer_size": 11797,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								10787,
+								10787
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2335.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "HTML/header.html",
+					"settings":
+					{
+						"buffer_size": 3299,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1638,
+								1638
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 397.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/C/Users/Virgilio/Dropbox/Contratos/2014/WilmaSanchez/MercadoShops/Versiones/Wilma/HTML/header.html",
+					"settings":
+					{
+						"buffer_size": 2698,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2281,
+								2324
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 788.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
 			]
 		}
 	],

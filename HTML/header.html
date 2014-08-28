@@ -1,49 +1,46 @@
 <link href='http://fonts.googleapis.com/css?family=Julius+Sans+One' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="../IMAGES/icomoon/style.css">
 <header class="wrapper top">
 	<div class="ch-g1 header-top">
 		<div class="ch-container">
 			<div class="social-bar">
 				<dl class="socialData">
-					<dt>Síguenos:</dt>	
 					<dd id="fb-button"></dd>
 					<g:plusone size="medium" count="false" href="http://www.crucestau.com.ve"></g:plusone>
 				</dl> 
 			</div>
-#if( $hasLogo )
-	<figure class="component img-logo">
-		<a href="/" title="Inicio">
-			<img src="/images/logo.png?" alt="Cruces Tau" title="Cruces Tau" /></a>
-	</figure>
-#else
-	<div class="component txt-logo">
-		<a href="/" title="Inicio" class="logo">Cruces Tau</a>
-	</div>
-#end
+			#if( $hasLogo )
+				<figure class="component img-logo">
+					<a href="/" title="Inicio">
+						<img src="/images/logo.png?" alt="Cruces Tau" title="Cruces Tau" /></a>
+				</figure>
+			#else
+				<div class="component txt-logo">
+					<a href="/" title="Inicio" class="logo">Cruces Tau</a>
+				</div>
+			#end
 			<div id="searchWrap" class="searchWrapper clearfix">
-<div class="component searchBar">
-	<form id="searchForm" method="get" action="/jm/com.mercadoshops.web.frontend.page.PageController">
-		<input type="hidden" name="view" value="result">
-		<input id="search" type="search" name="q" value="" class="inputField">
-		<input type="submit" value="Buscar" class="ch-btn ch-secondary button">
-	</form> 
-</div>#if( $shopHasCart )
-	<div id="cart" class="component cartButton">
-		<span id="mini-cart-container" class="bg-cart">
-		<a href="/cart" title="Ver Carrito" rel="nofollow" class="ch-btn ch-secondary button">Ver Carrito</a>
-		</span>
-	</div>
-#end
+				<div class="component searchBar">
+					<form id="searchForm" method="get" action="/jm/com.mercadoshops.web.frontend.page.PageController">
+						<input type="hidden" name="view" value="result">
+						<input id="search" type="search" name="q" value="" class="inputField">
+						<input type="submit" value="Buscar" class="ch-btn ch-secondary button">
+					</form> 
+				</div>
+				#if( $shopHasCart )
+					<div id="cart" class="component cartButton">
+						<span id="mini-cart-container" class="bg-cart">
+						<a href="/cart" title="Ver Carrito" rel="nofollow" class="ch-btn ch-secondary button">Ver Carrito</a>
+						</span>
+					</div>
+				#end
 			</div>
 		</div>
 		<!-- menu de navegacion -->
 		<div class="ch-g1 clearfix background border navWrapper">
-			<div class="ch-g1-5">
-				<div class="ch-container clearfix">
-					#if( $hasOnlyOneCategory )
-						<a href="$uniqueCategory.url" class="no-categ link ch-btn ch-secondary button">Todos los productos</a>
-					#else
-						<div id="categDrop" class="ch-container mnu-wilma clearfix">
-							<ul class="component simpleMenu clearfix">
+				<div class="ch-g4-5">
+					<div class="ch-container mnu-wilma clearfix">
+						<ul class="component simpleMenu clearfix">
 							#foreach( $menuItem in $menuItemList )
 								#if( $menuItem.isFirstItem )
 									<li class="first background">
@@ -56,15 +53,13 @@
 								#end
 							#end
 							#foreach ( $categoryLevel1 in $level1CategoryList )
-								<li class="background">
-									<a href="$categoryLevel1.url">$categoryLevel1.name</a>
-								</li>
+									<li class="background">
+										<a href="$categoryLevel1.url" #if($menuItem.noFollow) rel="nofollow" #end title="" class="link" target="_self" data-name="$categoryLevel1.name" data-isFirstItem="false" data-target="$categoryLevel1.url" data-noFollow="false" data-linkTarget="_self">$categoryLevel1.name</a>
+									</li>
 							#end
 							</ul>
 						</div>
-					#end
 				</div>
-			</div>
 	</div>
 	<!-- fin menu de navegacion -->
 	</div>

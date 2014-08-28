@@ -4,7 +4,6 @@ body{
 	background-color: #120701;
 	font-family: 'Julius Sans One', sans-serif;
 	color:#d0c7be;
-	max-width: 866px !important;
 }
 .wrapper{
 	background:transparent;
@@ -31,7 +30,6 @@ body{
 }
 #searchWrap.searchWrapper {
 	position: absolute;
-	bottom: 0%;
 	margin-bottom: 0px;
 	top: 2px;
 	right: 0px;
@@ -134,41 +132,54 @@ h3 .title-component{
 .cinta-ws{
 	background-color: #41061c;
 	width:100%;
-	padding:20px auto;
+	padding:20px 0;
 	color:#ecf0f1;
-	font-size: 18px;
+	font-size: 30px;
 	text-align: center;
 	text-transform: uppercase;
 }
 /*menu redes footer*/
-.icon-facebook{
-	background:url(../IMAGES/facebook.svg);
+span.icon-facebook{
+	background:url("../IMAGES/facebook.svg");
 	width:28px;
 	height:28px;
 	float:left;
 	color:#fff;
 }
-.icon-instagram{
-	background:url(../IMAGES/instagram.svg);
+span.icon-instagram{
+	background:url("../IMAGES/instagram.svg");
 	width:28px;
 	height:28px;
 	float:left;
 	color:#fff;
 }
-.icon-twitter{
-	background:url(../IMAGES/twitter.svg);
+span.icon-twitter{
+	background:url("../IMAGES/twitter.svg");
 	width:28px;
 	height:28px;
 	float:left;
 	color:#fff;
 }
-.icon-pinteres{
-	background:url(../IMAGES/pinterest.svg);
+span.icon-pinteres{
+	background:url("../IMAGES/pinterest.svg");
 	width:28px;
 	height:28px;
+	float:left;
+}
+.left-footer, .center-footer, .right-footer {
 	float:left;
 }
 .mnu-categorias, .mnu-base{
 	list-style: none;
 	color:#fff;
 }
+.mnu-categorias li a, .mnu-base li a{
+	color:#fff;
+	font-size: 1.3em;
+	line-height: 3;
+}
+.navWrapper .ch-g4-5 {
+width: 100%;
+float: left;
+}
+
