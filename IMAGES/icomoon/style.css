@@ -26,20 +26,28 @@
 .icon-wilmasanchez:before {
 	content: "\e600";
 	color:#fff;
+	font-size: 3em;
 }
 .icon-facebook:before {
 	content: "\e601";
 	color:#fff;
+	font-size: 2.5em;
 }
 .icon-instagram:before {
 	content: "\e602";
 	color:#fff;
+	font-size: 2.5em;
+	margin-left: 10px;
 }
 .icon-twitter:before {
 	content: "\e603";
 	color:#fff;
+	font-size: 2.5em;
+	margin-left: 25px;
 }
 .icon-pinterest:before {
 	content: "\e604";
 	color:#fff;
+	font-size: 2.5em;
+	margin-left: 35px;
 }

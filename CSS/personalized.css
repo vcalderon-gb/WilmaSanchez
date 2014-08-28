@@ -138,36 +138,16 @@ h3 .title-component{
 	text-align: center;
 	text-transform: uppercase;
 }
-/*menu redes footer*/
-span.icon-facebook{
-	background:url("../IMAGES/facebook.svg");
-	width:28px;
-	height:28px;
+.center-footer, .right-footer {
 	float:left;
-	color:#fff;
+	width:37.5%;
 }
-span.icon-instagram{
-	background:url("../IMAGES/instagram.svg");
-	width:28px;
-	height:28px;
-	float:left;
-	color:#fff;
+.left-footer, .center-footer{
+	padding-top: 100px;
 }
-span.icon-twitter{
-	background:url("../IMAGES/twitter.svg");
-	width:28px;
-	height:28px;
-	float:left;
-	color:#fff;
-}
-span.icon-pinteres{
-	background:url("../IMAGES/pinterest.svg");
-	width:28px;
-	height:28px;
-	float:left;
-}
-.left-footer, .center-footer, .right-footer {
-	float:left;
+.left-footer{
+	width:25%;
+	margin-left:8%; 
 }
 .mnu-categorias, .mnu-base{
 	list-style: none;
@@ -175,11 +155,15 @@ span.icon-pinteres{
 }
 .mnu-categorias li a, .mnu-base li a{
 	color:#fff;
-	font-size: 1.3em;
+	font-size: 1.5em;
 	line-height: 3;
+}
+.mnu-foot1{
+	padding-bottom: 10px;
 }
 .navWrapper .ch-g4-5 {
 width: 100%;
 float: left;
 }
+footer .ch-container{padding:0;}
 
