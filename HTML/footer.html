@@ -23,9 +23,9 @@
 				<div class="mnu-redes-footer">
 						<nav class="mnu-foot2">
 							<ul class="mnu-base">
-								<a href="#"></a><li>FORMAS DE PAGO</li></a>
-								<a href="#"></a><li>ENVÍOS</li></a>
-								<a href="#"></a><li>TÉRMINOS Y CONDICIONES</li></a>
+								<li><a href="http://www.crucestau.com.ve/shipping">FORMAS DE PAGO</a></li>
+								<li><a href="http://www.crucestau.com.ve/shipping">ENVÍOS</a></li>
+								<li><a href="#">TÉRMINOS Y CONDICIONES</a></li>
 							</ul>
 						</nav>		
 				</div>
@@ -39,22 +39,7 @@
 			</section>
 		</div>
 <address class="component addressExtended link">
-    <dl class="companyData">
-        <dt>Nuestros datos</dt> 
-		<dd>Cruces Tau</dd>
-		#if($showContactFooter)
-			#if( $showAddres )
-	        <dd>$address</dd>
-			#end
-	        #if( $showPhone )
-	        <dd>04129851114</dd> 
-	        #end
-        #end
-		<dd>
-			<a href="/contact">Contáctanos</a>
-		</dd>
-    </dl>
-	#if($hasFiscalData)
+  	#if($hasFiscalData)
 		<dl class="fiscalData">
 			#if($fiscalData.companyName)
 				<dd>$SEU.escapeHtml($fiscalData.companyName)</dd>
@@ -75,10 +60,6 @@
 #end
 	</div>
 #end
-
-
-
-
  <!-- footer left -->
 	</div>
 		<div class="component mshops">Powered by <a class="link" href="http://www.mercadoshops.com.ve" title="MercadoShops">MercadoShops</a></div>
