@@ -267,7 +267,7 @@
 			"file": "CSS/personalized.css",
 			"settings":
 			{
-				"buffer_size": 3015,
+				"buffer_size": 3048,
 				"line_ending": "Windows"
 			}
 		},
@@ -275,7 +275,7 @@
 			"file": "HTML/footer.html",
 			"settings":
 			{
-				"buffer_size": 2550,
+				"buffer_size": 2290,
 				"line_ending": "Unix"
 			}
 		},
@@ -299,7 +299,7 @@
 			"file": "IMAGES/icomoon/style.css",
 			"settings":
 			{
-				"buffer_size": 1114,
+				"buffer_size": 1112,
 				"line_ending": "Unix"
 			}
 		}
@@ -538,15 +538,15 @@
 					"file": "CSS/personalized.css",
 					"settings":
 					{
-						"buffer_size": 3015,
+						"buffer_size": 3048,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2527,
-								2527
+								1106,
+								1106
 							]
 						],
 						"settings":
@@ -555,7 +555,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 2206.0,
+						"translation.y": 677.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -565,23 +565,15 @@
 					"file": "HTML/footer.html",
 					"settings":
 					{
-						"buffer_size": 2550,
+						"buffer_size": 2290,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								840,
-								840
-							],
-							[
-								884,
-								884
-							],
-							[
-								944,
-								944
+								1653,
+								1653
 							]
 						],
 						"settings":
@@ -590,7 +582,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 117.0,
+						"translation.y": 636.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -654,15 +646,15 @@
 					"file": "IMAGES/icomoon/style.css",
 					"settings":
 					{
-						"buffer_size": 1114,
+						"buffer_size": 1112,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1033,
-								1033
+								1023,
+								1023
 							]
 						],
 						"settings":
@@ -671,7 +663,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 239.0,
+						"translation.y": 331.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"

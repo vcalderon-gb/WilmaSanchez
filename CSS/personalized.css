@@ -99,6 +99,11 @@ height: 310px !important;
 h3 .title-component{
 	display: none;
 }
+/* Carrousel */
+.ch-carousel{
+	background: #ededed;
+	padding: 10px 0 25px 0;
+}
 .component.newsProduct{
 	display:none;
 }
@@ -113,7 +118,7 @@ h3 .title-component{
 	font-size: 1.5em;
 	position: absolute;
 	z-index: 2;
-	bottom: 105px;
+	bottom: 0px;
 	max-width: 180px;
 }
 .component.itemGallery h2 a.title{
@@ -137,6 +142,13 @@ h3 .title-component{
 	font-size: 30px;
 	text-align: center;
 	text-transform: uppercase;
+}
+section .component{
+	background:#c2c0c1;
+}
+.mainContent .ch-container{
+	background: #c2c0c1;
+	margin-top: 20px;
 }
 .center-footer {
 	width:25%;
