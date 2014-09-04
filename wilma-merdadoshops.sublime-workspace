@@ -267,7 +267,7 @@
 			"file": "CSS/personalized.css",
 			"settings":
 			{
-				"buffer_size": 3048,
+				"buffer_size": 3309,
 				"line_ending": "Windows"
 			}
 		},
@@ -380,6 +380,7 @@
 	},
 	"file_history":
 	[
+		"/C/Users/Virgilio/Documents/Contratos/2011/ConSexo/2010/Enero/Sindrome Metabolico/Dr. Checre Maluff.txt",
 		"/C/xampp/htdocs/Wilma/IMAGES/icomoon/style.css",
 		"/C/xampp/htdocs/Wilma/IMAGES/icomoon/demo.html",
 		"/C/xampp/htdocs/Wilma/HTML/header.html",
@@ -538,15 +539,15 @@
 					"file": "CSS/personalized.css",
 					"settings":
 					{
-						"buffer_size": 3048,
+						"buffer_size": 3309,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1106,
-								1106
+								254,
+								254
 							]
 						],
 						"settings":
@@ -555,7 +556,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 677.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"

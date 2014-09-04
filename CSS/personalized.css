@@ -3,7 +3,6 @@ body{
 	background: url("../IMAGES/bg-wilma.jpg");
 	background-color: #120701;
 	font-family: 'Julius Sans One', sans-serif;
-	color:#d0c7be;
 }
 .wrapper{
 	background:transparent;
@@ -146,9 +145,9 @@ h3 .title-component{
 section .component{
 	background:#c2c0c1;
 }
-.mainContent .ch-container{
-	background: #c2c0c1;
+.ch-container .oneColumn{
 	margin-top: 20px;
+	background:#c2c0c1;
 }
 .center-footer {
 	width:25%;
@@ -187,3 +186,9 @@ width: 100%;
 float: left;
 }
 footer .ch-container{padding:0;}
+.ch-secondary.button, .ch-dropdown .button{
+	border:0;
+}
+.searchBar{
+	margin-top: 5px;
+}
