@@ -9,15 +9,21 @@ body{
 }
 .cont-redes-sociales{
 	background-color: #120701;
+	padding: 10px;
 }
-.cont-instagram{
+.cont-instagram {
+	background-color: #fff;
 	float: left;
-	width: 34%;
+	width: 33.5%;
+	padding: 5px 0px 0px 5px;
+	margin: 0px;
+	height: 285px;
+	-webkit-border-radius:4px;
 }
 .cont-pinteres{
-	float: right;
+	float: left;
 	width: 64%;
-	padding-left: 10px;
+	padding-left: 5px;
 }
 .header-top{
 	background-image: url("../IMAGES/header-fondo.jpg");
@@ -41,7 +47,7 @@ body{
 	margin:5px 0px 0px 8px;
 }
 .navWrapper{
-	margin-top: 7px;
+	margin-top: 14px;
 	background-color: transparent;
 }
 .ch-carousel-mask {
@@ -111,14 +117,12 @@ h3 .title-component{
 	background: #fff;
 }
 .component.itemGallery h2 {
-	margin: 0px 0px 0px 25px;
+	margin: 14px 0px 0px 14px;
 	max-height: 4.1em;
-	line-height: 0.98em;
+	line-height: 1.1em;
 	font-size: 1.5em;
-	position: absolute;
-	z-index: 2;
-	bottom: 0px;
-	max-width: 180px;
+	max-width: 193px;
+	float: left;
 }
 .component.itemGallery h2 a.title{
 	color: #e32684;
@@ -133,14 +137,15 @@ h3 .title-component{
 .component.itemGallery article{
 	min-height: 100%
 }
-.cinta-ws{
-	background-color: #41061c;
-	width:100%;
-	padding:20px 0;
-	color:#ecf0f1;
-	font-size: 30px;
-	text-align: center;
-	text-transform: uppercase;
+.cinta-ws {
+background-color: #41061c;
+width: 98%;
+padding: 20px 0;
+margin: 0 10px;
+color: #ecf0f1;
+font-size: 30px;
+text-align: center;
+text-transform: uppercase;
 }
 section .component{
 	background:#c2c0c1;
@@ -190,5 +195,37 @@ footer .ch-container{padding:0;}
 	border:0;
 }
 .searchBar{
+	margin-top: 0px;
+}
+.component.prodCarousel{
+	height:10px;
+}
+.header-instagram{
+	color:#000;
+	font-size: 12px;
+	width:100%;
+	text-align: left;
+	height:50px;
+}
+.header-instagram a{
+	color:#e32684;
+	font-size: 16px;
+}
+.ico-instagram{
+	width:34px;
+	height:34px;
+	background-image: url("../IMAGES/icon-instagram.png");
+	display:block;
+	float:left;
+	margin-right: 10px;
 	margin-top: 5px;
+}
+.txt-instagram{
+	margin-top: 5px;
+	display: block;
+	padding-top: 12px;
+	font-size: 14px;
+}
+.wrapper.bottom{
+	padding-top: 20px;
 }

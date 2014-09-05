@@ -4,6 +4,22 @@
 		"selected_items":
 		[
 			[
+				"font",
+				"font-size"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"i",
+				"icon-instagram.png	w:34 h:33"
+			],
+			[
 				"mar",
 				"margin-left"
 			],
@@ -14,14 +30,6 @@
 			[
 				"back",
 				"background"
-			],
-			[
-				"text",
-				"text-transform"
-			],
-			[
-				"font",
-				"font-size"
 			],
 			[
 				"min",
@@ -54,10 +62,6 @@
 			[
 				"url",
 				"url()"
-			],
-			[
-				"bac",
-				"background-color"
 			],
 			[
 				"max-",
@@ -267,8 +271,16 @@
 			"file": "CSS/personalized.css",
 			"settings":
 			{
-				"buffer_size": 3309,
+				"buffer_size": 3910,
 				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "HTML/home.html",
+			"settings":
+			{
+				"buffer_size": 12008,
+				"line_ending": "Unix"
 			}
 		},
 		{
@@ -276,14 +288,6 @@
 			"settings":
 			{
 				"buffer_size": 2290,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "HTML/home.html",
-			"settings":
-			{
-				"buffer_size": 11797,
 				"line_ending": "Unix"
 			}
 		},
@@ -471,6 +475,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"cont-instagram",
+			".component.prodCarousel",
 			"margin-bottom: 2px;",
 			"prox-event-int",
 			".calendario-titulo",
@@ -531,7 +537,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -539,15 +545,15 @@
 					"file": "CSS/personalized.css",
 					"settings":
 					{
-						"buffer_size": 3309,
+						"buffer_size": 3910,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								254,
-								254
+								474,
+								474
 							]
 						],
 						"settings":
@@ -563,6 +569,33 @@
 				},
 				{
 					"buffer": 1,
+					"file": "HTML/home.html",
+					"settings":
+					{
+						"buffer_size": 12008,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								11191,
+								11191
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 5376.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
 					"file": "HTML/footer.html",
 					"settings":
 					{
@@ -583,34 +616,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 636.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "HTML/home.html",
-					"settings":
-					{
-						"buffer_size": 11797,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								10787,
-								10787
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 571.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
