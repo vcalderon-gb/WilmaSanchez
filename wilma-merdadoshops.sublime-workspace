@@ -271,7 +271,7 @@
 			"file": "CSS/personalized.css",
 			"settings":
 			{
-				"buffer_size": 3910,
+				"buffer_size": 4489,
 				"line_ending": "Windows"
 			}
 		},
@@ -297,14 +297,6 @@
 			{
 				"buffer_size": 3358,
 				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "IMAGES/icomoon/style.css",
-			"settings":
-			{
-				"buffer_size": 1112,
-				"line_ending": "Unix"
 			}
 		}
 	],
@@ -384,8 +376,8 @@
 	},
 	"file_history":
 	[
-		"/C/Users/Virgilio/Documents/Contratos/2011/ConSexo/2010/Enero/Sindrome Metabolico/Dr. Checre Maluff.txt",
 		"/C/xampp/htdocs/Wilma/IMAGES/icomoon/style.css",
+		"/C/Users/Virgilio/Documents/Contratos/2011/ConSexo/2010/Enero/Sindrome Metabolico/Dr. Checre Maluff.txt",
 		"/C/xampp/htdocs/Wilma/IMAGES/icomoon/demo.html",
 		"/C/xampp/htdocs/Wilma/HTML/header.html",
 		"/C/Users/Virgilio/Dropbox/Contratos/2014/WilmaSanchez/MercadoShops/Versiones/Wilma/HTML/header.html",
@@ -537,7 +529,7 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 0,
 			"sheets":
 			[
 				{
@@ -545,15 +537,15 @@
 					"file": "CSS/personalized.css",
 					"settings":
 					{
-						"buffer_size": 3910,
+						"buffer_size": 4489,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								474,
-								474
+								423,
+								423
 							]
 						],
 						"settings":
@@ -589,7 +581,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 5376.0,
+						"translation.y": 5466.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -644,33 +636,6 @@
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "IMAGES/icomoon/style.css",
-					"settings":
-					{
-						"buffer_size": 1112,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1023,
-								1023
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/CSS/CSS.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 331.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"

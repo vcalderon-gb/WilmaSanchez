@@ -3,7 +3,19 @@ body{
 	background: url("../IMAGES/bg-wilma.jpg");
 	background-color: #120701;
 	font-family: 'Julius Sans One', sans-serif;
+	color:#120701;
+	font-weight: 600;
+	font-size: 12px;
 }
+body #page-STATIC{
+	background: url("../IMAGES/bg-wilma.jpg");
+	background-color: #120701;
+	font-family: 'Julius Sans One', sans-serif;
+	color:#120701;
+	font-weight: 600;
+	font-size: 12px;
+}
+
 .wrapper{
 	background:transparent;
 }
@@ -86,7 +98,7 @@ height: 310px !important;
 }
 .mnu-wilma li a{
 	color: #d0c7be;
-	font-size: 1.4em;
+	font-size: 1.297em;
 	font-weight: 300;
 	text-decoration: none;
 	margin-right: 18px !important;
@@ -228,4 +240,29 @@ footer .ch-container{padding:0;}
 }
 .wrapper.bottom{
 	padding-top: 20px;
+}
+.component .description{
+	border-top: solid 1px #fff;
+	border-bottom: solid 1px #fff;
+	padding: 10px 0;
+}
+.component.page-user .location .map{
+	float:right !important;
+}
+.component.page-user .location .datos{
+	float:left !important;
+	width: 50%;
+}
+.component.categoriesPath li{
+	font-size: 14px !important;
+}
+.component.page-user .border{
+	border-top: none;
+}
+.price,.title{
+	color:#120701;
+}
+.title{
+font-size: 1.3em;
+font-weight: 600;
 }
