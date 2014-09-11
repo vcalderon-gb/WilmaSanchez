@@ -139,6 +139,8 @@ h3 .title-component{
 .component.itemGallery h2 a.title{
 	color: #e32684;
 	text-decoration: none;
+	font-size: 0.93em;
+	font-weight: 100;
 }
 #homePrice{
 	display:none;
