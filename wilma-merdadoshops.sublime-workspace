@@ -267,38 +267,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "CSS/personalized.css",
-			"settings":
-			{
-				"buffer_size": 4489,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "HTML/home.html",
-			"settings":
-			{
-				"buffer_size": 12008,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "HTML/footer.html",
-			"settings":
-			{
-				"buffer_size": 2290,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "HTML/header.html",
-			"settings":
-			{
-				"buffer_size": 3358,
-				"line_ending": "Windows"
-			}
-		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -376,17 +344,17 @@
 	},
 	"file_history":
 	[
+		"/C/xampp/htdocs/Wilma/CSS/personalized.css",
+		"/C/xampp/htdocs/Wilma/HTML/home.html",
+		"/C/xampp/htdocs/Wilma/HTML/footer.html",
+		"/C/xampp/htdocs/Wilma/HTML/header.html",
 		"/C/xampp/htdocs/Wilma/IMAGES/icomoon/style.css",
 		"/C/Users/Virgilio/Documents/Contratos/2011/ConSexo/2010/Enero/Sindrome Metabolico/Dr. Checre Maluff.txt",
 		"/C/xampp/htdocs/Wilma/IMAGES/icomoon/demo.html",
-		"/C/xampp/htdocs/Wilma/HTML/header.html",
 		"/C/Users/Virgilio/Dropbox/Contratos/2014/WilmaSanchez/MercadoShops/Versiones/Wilma/HTML/header.html",
 		"/C/xampp/htdocs/HTML5/dia5_canvas.html",
 		"/C/xampp/htdocs/HTML5/dia4.html",
 		"/C/Users/Virgilio/Dropbox/Contratos/2014/WilmaSanchez/MercadoShops/Versiones/Wilma-V-1.zip",
-		"/C/xampp/htdocs/Wilma/CSS/personalized.css",
-		"/C/xampp/htdocs/Wilma/HTML/home.html",
-		"/C/xampp/htdocs/Wilma/HTML/footer.html",
 		"/C/xampp/htdocs/CorpoByte/Comandos de GIT",
 		"/C/xampp/htdocs/CentroArbitraje/interno.html",
 		"/C/xampp/htdocs/CentroArbitraje/index.html",
@@ -529,117 +497,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "CSS/personalized.css",
-					"settings":
-					{
-						"buffer_size": 4489,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								423,
-								423
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/CSS/CSS.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "HTML/home.html",
-					"settings":
-					{
-						"buffer_size": 12008,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								11191,
-								11191
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 5466.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "HTML/footer.html",
-					"settings":
-					{
-						"buffer_size": 2290,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1653,
-								1653
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "HTML/header.html",
-					"settings":
-					{
-						"buffer_size": 3358,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								449,
-								449
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
 			]
 		}
 	],
