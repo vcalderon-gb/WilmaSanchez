@@ -1,6 +1,7 @@
 /* Escribe aquí las clases que quieras personalizar. Consulta la documentación en http://blog.mercadoshops.com/html/#EditandoCSS */
 body{
 	background: url("../IMAGES/bg-wilma.jpg");
+	background-repeat: no-repeat;
 	background-color: #120701;
 	font-family: 'Julius Sans One', sans-serif;
 	color:#120701;
@@ -29,13 +30,13 @@ body #page-STATIC{
 	width: 33.5%;
 	padding: 5px 0px 0px 5px;
 	margin: 0px;
-	height: 285px;
+	height: 278px;
 	-webkit-border-radius:4px;
 }
 .cont-pinteres{
 	float: left;
-	width: 64%;
-	padding-left: 5px;
+	width: 62%;
+	padding-left: 24px;
 }
 .header-top{
 	background-image: url("../IMAGES/header-fondo.jpg");
@@ -69,6 +70,9 @@ height: 310px !important;
 }
 .ch-carousel-pages{
 	display:none;
+}
+.ch-carousel-disabled {
+display: initial !important;
 }
 .component.img-logo{
 	max-height: 157px;
@@ -199,6 +203,8 @@ section .component{
 }
 .mnu-pagos h3{
 	font-size: 1.3em;
+	color: #fff;
+	margin-top: 40px;
 }
 .navWrapper .ch-g4-5 {
 width: 100%;
@@ -219,7 +225,7 @@ footer .ch-container{padding:0;}
 	font-size: 12px;
 	width:100%;
 	text-align: left;
-	height:50px;
+	height:45px;
 }
 .header-instagram a{
 	color:#e32684;
