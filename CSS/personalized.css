@@ -162,6 +162,7 @@ padding: 20px 0;
 margin: 0 10px;
 color: #ecf0f1;
 font-size: 30px;
+font-weight: 100;
 text-align: center;
 text-transform: uppercase;
 }
@@ -194,8 +195,9 @@ section .component{
 }
 .mnu-categorias li a, .mnu-base li a{
 	color:#fff;
-	font-size: 1.3em;
+	font-size: 1em;
 	line-height: 3;
+	font-weight: 100;
 }
 .mnu-foot1, .left-footer ul{
 	padding-bottom: 10px;

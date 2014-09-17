@@ -4,280 +4,124 @@
 		"selected_items":
 		[
 			[
-				"font",
-				"font-size"
+				"border",
+				"border-color"
 			],
 			[
 				"bac",
 				"background-color"
 			],
 			[
-				"text",
-				"text-align"
-			],
-			[
-				"i",
-				"icon-instagram.png	w:34 h:33"
-			],
-			[
-				"mar",
-				"margin-left"
-			],
-			[
-				"padding-",
-				"padding-bottom"
-			],
-			[
-				"back",
-				"background"
-			],
-			[
-				"min",
-				"min-height"
-			],
-			[
-				"max",
-				"max-width"
-			],
-			[
-				"dis",
-				"display"
-			],
-			[
-				"n",
-				"none"
-			],
-			[
-				"border",
-				"border-bottom"
-			],
-			[
-				"car",
-				"cartButton"
-			],
-			[
-				"pa",
-				"padding-top"
-			],
-			[
-				"url",
-				"url()"
-			],
-			[
-				"max-",
-				"max-width"
-			],
-			[
-				"pad",
-				"padding"
-			],
-			[
-				"lin",
-				"link"
-			],
-			[
-				"u",
-				"uppercase"
-			],
-			[
-				"padd",
-				"padding-bottom"
-			],
-			[
-				"fff",
-				"ffffff"
-			],
-			[
-				"FFF",
-				"ffffff"
-			],
-			[
-				"ho",
-				"hover"
-			],
-			[
-				"cont",
-				"cont-eventos"
-			],
-			[
-				"di",
-				"display"
-			],
-			[
-				"ba",
-				"background-size"
+				"f",
+				"file.png	w:200 h:200"
 			],
 			[
 				"marg",
 				"margin-top"
 			],
 			[
-				"bo",
-				"bottom"
-			],
-			[
-				"margin",
-				"margin-right"
-			],
-			[
-				"TE",
-				"text-align"
-			],
-			[
-				"wi",
-				"width"
-			],
-			[
-				"ma",
-				"margin"
-			],
-			[
-				"co",
-				"color"
-			],
-			[
-				"foo",
-				"footer	Tag"
-			],
-			[
-				"margin-",
-				"margin-bottom"
-			],
-			[
-				"l",
-				"left"
-			],
-			[
-				"margint",
-				"margin-top"
-			],
-			[
-				"r",
-				"right"
-			],
-			[
-				"in",
-				"input	Tag"
-			],
-			[
-				"h",
-				"hover"
-			],
-			[
-				"he",
-				"height"
-			],
-			[
-				"li",
-				"li"
-			],
-			[
-				"nav",
-				"navbar-nav"
-			],
-			[
-				"na",
-				"navbar-default"
-			],
-			[
-				"border-co",
-				"border-color"
-			],
-			[
-				"c",
-				"cdae51"
-			],
-			[
-				"promo",
-				"promo-home"
-			],
-			[
-				"b",
-				"bottom"
-			],
-			[
-				"pre",
-				"prensa-detalle"
-			],
-			[
-				"te",
-				"text-align"
-			],
-			[
-				"L",
-				"left"
-			],
-			[
-				"menu",
-				"menu-right"
-			],
-			[
-				"bag",
-				"background-color"
-			],
-			[
-				"fon",
+				"font",
 				"font-size"
 			],
 			[
-				"tex",
-				"text-decoration"
+				"pub",
+				"pub-lobby.png	w:75 h:75"
 			],
 			[
-				"w",
-				"width"
+				"i",
+				"icons"
 			],
 			[
-				"ar",
-				"article	Tag"
+				"im",
+				"img"
 			],
 			[
-				"se",
-				"section	Tag"
+				"co",
+				"content"
 			],
 			[
-				"s",
-				"script	Tag"
+				"url",
+				"url()"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"ini",
+				"initial"
 			],
 			[
 				"d",
 				"display"
 			],
 			[
+				"list",
+				"list-style"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"c",
+				"center"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"ge",
+				"GetAttribute"
+			],
+			[
+				"movi",
+				"MovieList"
+			],
+			[
+				"s",
+				"script	Tag"
+			],
+			[
+				"background",
+				"background-repeat"
+			],
+			[
 				"o",
 				"overflow"
 			],
 			[
-				"m",
-				"margin-top"
-			],
-			[
-				"bt",
-				"btn-vestidos"
-			],
-			[
-				"btn-",
-				"btn-monitos"
-			],
-			[
-				"f",
-				"float"
+				"l",
+				"link	Tag"
 			]
 		]
 	},
 	"buffers":
 	[
 	],
-	"build_system": "",
+	"build_system": "Packages/YUI Compressor/YUI Compressor.sublime-build",
 	"command_palette":
 	{
-		"height": 58.0,
+		"height": 392.0,
 		"selected_items":
 		[
-			[
-				"install",
-				"Package Control: Install Package"
-			],
 			[
 				"inst",
 				"Package Control: Install Package"
@@ -287,19 +131,15 @@
 				"Package Control: Install Package"
 			],
 			[
-				"ins",
-				"Package Control: Install Package"
-			],
-			[
 				"insta",
 				"Package Control: Install Package"
 			],
 			[
-				"Package Control: ",
+				"ins",
 				"Package Control: Install Package"
 			],
 			[
-				"intal",
+				"install",
 				"Package Control: Install Package"
 			],
 			[
@@ -307,27 +147,23 @@
 				"Package Control: Install Package"
 			],
 			[
-				"PAC",
-				"Package Control: Disable Package"
+				"",
+				"Package Control: Install Package"
 			],
 			[
-				"pack",
-				"Package Control: Remove Package"
+				"gt",
+				"Package Control: Install Package"
 			],
 			[
 				"pa",
-				"Package Control: Remove Package"
+				"Package Control: Install Package"
 			],
 			[
-				"package ",
-				"Package Control: Remove Package"
-			],
-			[
-				"INST",
+				"Package Control: ",
 				"Package Control: Install Package"
 			]
 		],
-		"width": 576.0
+		"width": 528.0
 	},
 	"console":
 	{
@@ -344,80 +180,69 @@
 	},
 	"file_history":
 	[
-		"/C/xampp/htdocs/Wilma/HTML/footer.html",
-		"/C/xampp/htdocs/Wilma/HTML/home.html",
-		"/C/xampp/htdocs/Wilma/CSS/personalized.css",
-		"/C/xampp/htdocs/Wilma/HTML/header.html",
-		"/C/xampp/htdocs/Wilma/IMAGES/icomoon/style.css",
-		"/C/Users/Virgilio/Documents/Contratos/2011/ConSexo/2010/Enero/Sindrome Metabolico/Dr. Checre Maluff.txt",
-		"/C/xampp/htdocs/Wilma/IMAGES/icomoon/demo.html",
-		"/C/Users/Virgilio/Dropbox/Contratos/2014/WilmaSanchez/MercadoShops/Versiones/Wilma/HTML/header.html",
-		"/C/xampp/htdocs/HTML5/dia5_canvas.html",
-		"/C/xampp/htdocs/HTML5/dia4.html",
-		"/C/Users/Virgilio/Dropbox/Contratos/2014/WilmaSanchez/MercadoShops/Versiones/Wilma-V-1.zip",
-		"/C/xampp/htdocs/CorpoByte/Comandos de GIT",
-		"/C/xampp/htdocs/CentroArbitraje/interno.html",
-		"/C/xampp/htdocs/CentroArbitraje/index.html",
-		"/C/xampp/htdocs/CentroArbitraje/css/custom.css",
-		"/C/xampp/htdocs/CentroArbitraje/css/desktop.css",
-		"/C/xampp/htdocs/Bootstrap/05_01.html",
-		"/C/xampp/htdocs/CentroArbitraje/css/style.css",
-		"/C/xampp/htdocs/CentroArbitraje/css/slider.css",
-		"/C/xampp/htdocs/Arbitraje/wp-content/themes/arbitraje/footer.php",
-		"/C/xampp/htdocs/Arbitraje/wp-content/themes/arbitraje/css/slider.css",
-		"/C/xampp/htdocs/Arbitraje/wp-content/plugins/availability/style.css",
-		"/D/Garmin/GarminDevice.xml",
-		"/C/xampp/htdocs/Arbitraje/wp-content/themes/arbitraje/functions.php",
-		"/C/xampp/htdocs/CentroArbitraje/img/IcoMoon-4-32px-#000000/sprites/sprites.html",
-		"/C/xampp/htdocs/Bootstrap/04_03.html",
-		"/C/Users/Virgilio/AppData/Roaming/Sublime Text 2/Packages/Emmet/Default (Windows).sublime-keymap",
-		"/C/xampp/htdocs/CentroArbitraje/css/desktop",
-		"/C/xampp/htdocs/Softline/softline/wp-content/themes/softline/css/desktop.css",
-		"/C/xampp/htdocs/Bootstrap/03_08.html",
-		"/C/xampp/htdocs/Softline/softline-bs/index.html",
-		"/C/xampp/htdocs/Softline/softline-bs/css/desktop.css",
-		"/C/xampp/htdocs/Bootstrap/css/custom.css",
-		"/C/xampp/htdocs/Bootstrap/03_07.html",
-		"/C/xampp/htdocs/Bootstrap/03_06.html",
-		"/C/xampp/htdocs/Bootstrap/03_05.html",
-		"/C/xampp/htdocs/Softline/softline-bs/detalle-promocion.html",
-		"/C/xampp/htdocs/Softline/softline-bs/home-promocion.html",
-		"/C/xampp/htdocs/Softline/softline-bs/article.html",
-		"/C/xampp/htdocs/Softline/softline-bs/interno.html",
-		"/C/xampp/htdocs/Softline/softline-bs/prensa.html",
-		"/C/xampp/htdocs/Bootstrap/02_07.html",
-		"/C/xampp/htdocs/Bootstrap/02_06.html",
-		"/C/xampp/htdocs/Softline/softline-bs/slider.html",
-		"/C/xampp/htdocs/Softline/softline-bs/responsive-slider-0.9/example/classic.html",
-		"/C/xampp/htdocs/Softline/softline-bs/css/inicio.css",
-		"/C/xampp/htdocs/Softline/softline-bs/index-original.html",
-		"/C/xampp/htdocs/Softline/softline-bs/js/modernizr-2.6.2.min.js",
-		"/C/xampp/htdocs/Softline/softline-bs/slider",
-		"/C/xampp/htdocs/Bootstrap/02_03.html",
-		"/C/xampp/htdocs/Bootstrap/02_05.html",
-		"/C/xampp/htdocs/Bootstrap/index.html",
-		"/C/xampp/htdocs/Bootstrap/02_02.html",
-		"/C/Users/Virgilio/AppData/Roaming/Sublime Text 2/Packages/Emmet/Emmet.sublime-settings",
-		"/C/Users/Virgilio/AppData/Roaming/Sublime Text 2/Packages/User/Emmet.sublime-settings",
-		"/C/xampp/htdocs/Softline/softline-bs/header.html",
-		"/C/xampp/htdocs/Bootstrap/03_04.html",
-		"/C/xampp/htdocs/Bootstrap/03_03.html",
-		"/C/xampp/htdocs/Bootstrap/03_02.html",
-		"/C/xampp/htdocs/Bootstrap/03_01.html",
-		"/C/xampp/htdocs/Softline/softline-bs/css/custom.css",
-		"/C/xampp/htdocs/Softline/softline_html/index.html",
-		"/C/xampp/htdocs/Bootstrap/02_04.html",
-		"/C/xampp/htdocs/Bootstrap/css/bootstrap.css",
-		"/C/xampp/htdocs/La-Coquetterie/La-Coquetterie.sublime-project",
-		"/C/xampp/htdocs/La-Coquetterie/La-Coquetterie.sublime-workspace",
-		"/C/xampp/htdocs/La-Coquetterie/CSS/personalized.css",
-		"/C/xampp/htdocs/La-Coquetterie/HTML/home.html",
-		"/C/xampp/htdocs/La-Coquetterie/HTML/footer.html",
-		"/C/xampp/htdocs/La-Coquetterie/HTML/header.html",
-		"/C/xampp/htdocs/La-Coquetterie/CSS/themes/mini/desktop.css",
-		"/C/xampp/htdocs/La-Coquetterie/CSS/themes/base.css",
-		"/C/xampp/htdocs/La-Coquetterie/CSS/themes/mini/basic.css",
-		"/C/xampp/htdocs/La-Coquetterie/IMAGES/bg_body.png"
+		"/C/inetpub/wwwroot/WilmaSanchez/CSS/personalized.css",
+		"/C/inetpub/wwwroot/CU-TEMP-INT/Content/css/styles_internos_estatic.css",
+		"/C/inetpub/wwwroot/CU-TEMP-INT/carameleria.html",
+		"/C/inetpub/wwwroot/CU-TEMP-INT/acceso_usuario.html",
+		"/C/inetpub/wwwroot/CU-TEMP-INT/Content/css/styles_responsive_1024_768.css",
+		"/C/inetpub/wwwroot/CU-TEMP-INT/comercializacion-demo.html",
+		"/C/inetpub/wwwroot/CU-TEMP-INT/Content/css/sections-frmwrk-styles.css",
+		"/C/inetpub/wwwroot/CU-TEMP-INT/comercializacion-boletos-demo.html",
+		"/C/inetpub/wwwroot/CU-TEMP-INT/comercializacion.html",
+		"/C/Users/vcalderon.CINESUNIDOS/Desktop/emailmasivo_cartelera.asp",
+		"/C/inetpub/wwwroot/CU-TEMP-INT/promociones.html",
+		"/C/inetpub/wwwroot/CU-TEMP-INT/INTERNO-BASE.html",
+		"/C/inetpub/wwwroot/CU-TEMP-INT/home.html",
+		"/C/inetpub/wwwroot/CU-TEMP-INT/promociones-demo.html",
+		"/C/inetpub/wwwroot/CU-TEMP-INT/Scripts/jquery.isotope.min.js",
+		"/C/inetpub/wwwroot/CU-TEMP-INT/listasalas.html",
+		"/C/inetpub/wwwroot/Mass-Mail/mm-promo-indestructibles3.html",
+		"/C/inetpub/wwwroot/Mass-Mail/mm-promo-peli.html",
+		"/C/inetpub/wwwroot/Mass-Mail/mm-promo.html",
+		"/C/inetpub/wwwroot/Mass-Mail/index.html",
+		"/C/inetpub/wwwroot/Cinesunidos/massmail/emailmasivo_cartelera.asp",
+		"/C/inetpub/wwwroot/Cinesunidos/InitSaleNew.asp",
+		"/C/inetpub/wwwroot/Cinesunidos/massmail/emailmasivo_promociones_.asp",
+		"/C/inetpub/wwwroot/Cinesunidos/massmail/emailmasivo_promociones.asp",
+		"/C/Users/vcalderon/AppData/Roaming/Sublime Text 2/Packages/Emmet/Emmet.sublime-settings",
+		"/C/inetpub/wwwroot/Cinesunidos/Mundial2014.asp",
+		"/C/Users/vcalderon/Documents/Desarrollo/SOAP/Getting-Started-soapui-project.xml",
+		"/C/inetpub/wwwroot/Cinesunidos/movieDetail.asp",
+		"/C/inetpub/wwwroot/Cinesunidos/movieDetail_mundial.asp",
+		"/C/inetpub/wwwroot/Cinesunidos/index.asp",
+		"/C/inetpub/wwwroot/Cinesunidos/iphone/mecanica.asp",
+		"/C/inetpub/wwwroot/Cinesunidos/contactos_dev.asp",
+		"/C/inetpub/wwwroot/Cinesunidos/moreCU.asp",
+		"/C/inetpub/wwwroot/Cinesunidos/massmail/MovieFull.xml",
+		"/C/inetpub/wwwroot/Cinesunidos/carameleria.asp",
+		"/C/inetpub/wwwroot/Cinesunidos/Contactos.asp",
+		"/C/inetpub/wwwroot/Cinesunidos/nosotros.asp",
+		"/C/inetpub/wwwroot/Cinesunidos/promociones.asp",
+		"/C/inetpub/wwwroot/Cinesunidos/estrenos.asp",
+		"/C/inetpub/wwwroot/Cinesunidos/AllocatedSeats.asp",
+		"/C/inetpub/wwwroot/Cinesunidos/login.asp",
+		"/C/inetpub/wwwroot/Cinesunidos/registrarse.asp",
+		"/C/inetpub/wwwroot/Cinesunidos/includes/headTagInfo.asp",
+		"/C/inetpub/wwwroot/Cinesunidos/InitSaleNew-BACK-14-05-2014.asp",
+		"/C/inetpub/wwwroot/Cinesunidos/index-14-05-2014.asp",
+		"/C/inetpub/wwwroot/Cinesunidos/includes/navFooter.asp",
+		"/C/inetpub/wwwroot/CU-WEB-TEMP-2013/CLOUD/styles/styles_compra.css",
+		"/C/inetpub/wwwroot/CU-WEB-TEMP-2013/CLOUD/styles/style_front.css",
+		"/C/inetpub/wwwroot/CU-WEB-TEMP-2013/CLOUD/files/Home.xml",
+		"/C/inetpub/wwwroot/CU-WEB-TEMP-2013/WS/wwwroot/Content/Home.xml",
+		"/C/Users/vcalderon/Documents/Usuarios-Pagina-WEB/Users2008-revisar.csv",
+		"/C/Users/vcalderon/Documents/Usuarios-Pagina-WEB/Users2008.csv",
+		"/C/Users/vcalderon/Desktop/Home.xml",
+		"/C/inetpub/wwwroot/CU-WEB-TEMP-2013/WEB/wwwroot/Content/320x480.css",
+		"/C/inetpub/wwwroot/CU-WEB-TEMP-2013/WEB/wwwroot/Content/1024x768.css",
+		"/C/inetpub/wwwroot/CU-WEB-TEMP-2013/WEB/wwwroot/Content/styles_registro.css",
+		"/C/inetpub/wwwroot/CU-WEB-TEMP-2013/WEB/wwwroot/Content/styles_compra.css",
+		"/C/inetpub/wwwroot/CU-WEB-TEMP-2013/WEB/wwwroot/Content/style_front.css",
+		"/C/inetpub/wwwroot/Bootstrap/index.html",
+		"/C/Users/vcalderon/Desktop/Softline/css/softline-mobile.css",
+		"/C/Users/vcalderon/Desktop/Softline/home.html",
+		"/C/Users/vcalderon/Desktop/Softline/css/softline-mobile",
+		"/C/Users/vcalderon/Desktop/Softline/css/320x480.css"
 	],
 	"find":
 	{
@@ -435,58 +260,70 @@
 		"case_sensitive": false,
 		"find_history":
 		[
-			"cont-instagram",
-			".component.prodCarousel",
-			"margin-bottom: 2px;",
-			"prox-event-int",
-			".calendario-titulo",
-			".event-act",
-			"sumario",
-			"cont-logos",
-			".wp-availability-month",
-			".wp-availability-month table thead th",
-			"footer-ca",
-			"event-act",
-			"event_act",
-			"eventos-recientes",
-			"event-recientes",
-			"event-rec-tit-int",
-			"cont-eventos",
-			"calculadora",
-			"mnu-redes",
-			"logos",
-			"expand",
-			"logos",
-			"cabecero",
-			"5",
-			"cabecero",
-			"li",
-			"top",
-			"cabecero",
-			"><",
-			"top",
-			"cont-menu",
-			"src=\"../img",
-			"src=\"img",
-			"5",
-			"Diet",
-			"component prominentProd prodCarousel ch-g1",
-			"before",
-			"ch-g1 main wrapper",
-			"main wrapper",
-			".ch-g1",
-			"ch-g1",
-			"wrapper"
+			"subir",
+			"                \n",
+			"icon",
+			"icons",
+			"background: url(icons",
+			"background: url(icons/",
+			"(icons/",
+			"url(icons/",
+			"icon",
+			"PORTFOLIO",
+			"ui",
+			"web",
+			"graphics",
+			"src=\"/",
+			"=\"/Content",
+			"poster",
+			"bigimage",
+			"#95a5a6",
+			"table",
+			"poster",
+			"image-banner",
+			"col2img",
+			"libertador",
+			"src=\"img/indestructibles3/",
+			"style",
+			"src=\"img/",
+			"IMG",
+			"read more",
+			"logo",
+			"#0db9ea",
+			"expander",
+			"trato",
+			".asientoreserv",
+			"jpg",
+			"png",
+			"gif",
+			"jpg",
+			"png",
+			"gif",
+			"jpg",
+			"gif",
+			"jpg",
+			"png",
+			"gif",
+			"\"gif\" \"jpg\" \"png\"",
+			"jpg",
+			"png",
+			"gif",
+			"png",
+			"jpg"
 		],
-		"highlight": false,
+		"highlight": true,
 		"in_selection": false,
 		"preserve_case": false,
-		"regex": false,
+		"regex": true,
 		"replace_history":
 		[
-			"logos",
-			"top",
-			"5"
+			"../img/icons",
+			"background: url(../img/icons",
+			"../img/icons",
+			"(../img/icons/",
+			"url(../img/icons/",
+			"src=\"",
+			"=\"Content"
 		],
 		"reverse": false,
 		"show_context": true,
@@ -508,7 +345,7 @@
 	},
 	"input":
 	{
-		"height": 31.0
+		"height": 0.0
 	},
 	"layout":
 	{
@@ -533,6 +370,10 @@
 		]
 	},
 	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 170.0
+	},
 	"replace":
 	{
 		"height": 62.0
@@ -548,16 +389,16 @@
 	},
 	"select_project":
 	{
-		"height": 500.0,
+		"height": 0.0,
 		"selected_items":
 		[
 		],
-		"width": 380.0
+		"width": 0.0
 	},
 	"show_minimap": true,
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 244.0,
+	"side_bar_width": 278.0,
 	"status_bar_visible": true
 }
