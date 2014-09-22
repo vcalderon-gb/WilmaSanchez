@@ -77,7 +77,8 @@ display: initial !important;
 .component.img-logo{
 	max-height: 157px;
 	max-width: 160px;
-	margin-left: 47%;
+	margin-left: auto;
+	margin-right: auto;
 	margin-top: 2.5%;
 }
 .component.img-logo a{
@@ -219,6 +220,9 @@ footer .ch-container{padding:0;}
 .searchBar{
 	margin-top: 0px;
 }
+.component.cartButton .bg-cart{
+	background-image: url("../IMAGES/sprite.png") !important;
+}
 .component.prodCarousel{
 	height:10px;
 }
@@ -275,4 +279,62 @@ footer .ch-container{padding:0;}
 .title{
 font-size: 1.3em;
 font-weight: 600;
+}
+
+@media only screen and (min-device-width : 961px)  and (max-width: 1024px){
+	.component.itemGallery li {
+		width: 25%;
+	}
+	span.PIN_1411349065024_embed_grid.PIN_1411349065024_fancy{
+		width: 100%;
+	}
+
+}
+
+@media only screen and (min-device-width : 768px) and (max-device-width : 960px)  { 
+	.mnu-wilma li a{
+		font-size: 1.1em;
+		margin-right: 7px !important;
+	}
+	.content-list img{
+		max-width: 595px;
+	}
+	.component.itemGallery li{
+		width: 50%;
+	}
+	.component.itemGallery h2{
+		margin: 14px 0px 0px 80px;
+	}
+	.cont-pinteres {
+		width: 45%;
+		padding-left: 13px;
+	}
+	.cont-instagram{
+		width: 42.5%;
+	}
+}
+
+
+@media only screen and (min-device-width : 320px) and (max-device-width : 568px) { 
+	.component.img-logo{
+		margin-left: auto;
+		margin-right: auto;
+	}
+	.ch-carousel, .cont-redes-sociales, .right-footer,#searchWrap .component.searchBar{
+		display:none;
+	}
+	.left-footer{
+		width:50%;
+	}
+	.center-footer{
+		width:40%;
+	}
+	.mnu-foot1, .left-footer ul{
+		margin-left: -5%;
+	}
+	.ch-dropdown-content, .ch-dropdown-content li, .ch-points-rbrt li, ul.ch-dropdown-content{
+		background-color: #120701 !important;
+		font-size: 0.95em;
+		font-weight: 100;
+	}
 }
